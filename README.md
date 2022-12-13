@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Trieu Huynh.
-- 👀 I’m interested in C/C++, Linux, Embedded and so on...
-- 🌱 I’m currently learning in HCMUT majoring in Electronics Engineering.
 - 📫 You can reach me via [Skype](https://join.skype.com/invite/xBqjPxIpymw8)
 
 <!---
