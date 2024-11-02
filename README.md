@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trieu Huynh.
-- 📫 You can reach me via [Skype](https://join.skype.com/invite/xBqjPxIpymw8)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/trieu-huynh-133108188)
 
 <!---
 trieu1162000/trieu1162000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
